@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>road_motion_c</name>
+  <name>pc_adder</name>
   <version>0.0.0</version>
-  <description>The road_motion_c package</description>
+  <description>The pc_adder package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
